@@ -1,4 +1,4 @@
-<!-- Script used for take content from page and store in database -->
+<!-- Script used to take content from page and store in database -->
 <?php
     session_start();
 
